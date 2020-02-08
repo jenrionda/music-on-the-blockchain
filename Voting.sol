@@ -22,8 +22,11 @@ contract Election {
     );
 
     constructor () public {
-        addCandidate("Candidate 1");
-        addCandidate("Candidate 2");
+        addCandidate("Musician 1");
+        addCandidate("Musician 2");
+        addCandidate("Musician 3");
+        addCandidate("Musician 4");
+        addCandidate("Musician 5");
     }
 
     function addCandidate (string memory _name) private {
