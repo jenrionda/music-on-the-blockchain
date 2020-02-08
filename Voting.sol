@@ -21,15 +21,15 @@ contract Election {
         uint indexed _candidateId
     );
 
-    // constructor () public {
-    //     addCandidate("Candidate 1");
-    //     addCandidate("Candidate 2");
-    // }
+    constructor () public {
+        addCandidate("Candidate 1");
+        addCandidate("Candidate 2");
+    }
 
-    // function addCandidate (string memory _name) private {
-    //     candidatesCount ++;
-    //     candidates[candidatesCount] = Candidate(candidatesCount, _name, 0);
-    // }
+    function addCandidate (string memory _name) private {
+        candidatesCount ++;
+        candidates[candidatesCount] = Candidate(candidatesCount, _name, 0);
+    }
 
     function vote (uint _candidateId) public {
         // require that they haven't voted before
