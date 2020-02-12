@@ -10,6 +10,7 @@ const providerFactory = network =>
   );
 
 module.exports = {
+  contracts_build_directory: "./src",
   networks: {
     development: {
       host: "127.0.0.1",
