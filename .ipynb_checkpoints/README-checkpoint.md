@@ -8,6 +8,10 @@
 
 ![User interface](images/music-on-the-blockchain.png)
 
+## Contributors
+* Roland Ferrao
+* Armen Arsenyan
+* Jennifer Rionda
 
 ## How it works
 1. Musician Ballot runs on the Rinkeby network, in order to cast a vote you must have Ether (Note, voting transactions typically require anywhere between 0.6-1.0 Ether)
