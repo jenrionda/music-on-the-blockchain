@@ -22,6 +22,12 @@
 5. If you're vote is completed successfully, you will see the number of votes for your selected artist increase by one. Sometimes it may take a few seconds for the transaction to register depending on the network bandwidth
 6. The Rinkeby testnet uses Proof of Authority as the concensus algorithm
 
+## Usage
+* The template could use be used for creating voting based decentralized applications (E.g. electrol voting)
+
+## Requirements
+* All requirements have been listed in the "requirements.txt" file within the  requirements folder
+
 ## Technologies used
 1. Java/CSS/HTML/web3.js (UI)
 2. MetaMask (Wallet)
