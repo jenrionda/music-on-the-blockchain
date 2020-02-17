@@ -41,14 +41,14 @@
 ## Resources
 ### Solidity: 
 * https://solidity.readthedocs.io/en/v0.6.2/solidity-by-example.html
-## Netflify
+### Netflify
 * https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
+### Truffle
+* https://www.edureka.co/blog/developing-ethereum-dapps-with-truffle
 ### dApps:
 * https://medium.com/coinmonks/voting-on-a-blockchain-solidity-contract-codes-explained-c677996d94f2
 * https://github.com/maheshmurthy/ethereum_voting_dapp
-* https://github.com/dappuniversity/election
 * https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
 * https://github.com/dibakarsutradhar/election
-* https://github.com/Vote-On-Ethereum/Contract
 * https://builtin.com/blockchain/blockchain-music-innovation-examples
 
