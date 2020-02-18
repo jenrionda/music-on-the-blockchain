@@ -42,6 +42,7 @@
 # Resources
 ## Solidity: 
 * https://solidity.readthedocs.io/en/v0.6.2/solidity-by-example.html
+* https://www.youtube.com/watch?v=p1BlOH0QB4E&feature=youtu.be
 ## Netflify
 * https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
 ## Truffle
