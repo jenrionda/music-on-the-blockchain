@@ -37,6 +37,7 @@
 4. Solidity (Contract Language)
 5. Rinkeby (Network)
 6. Netlify (Hosting)
+7. Infura (Public node service)
 
 # Resources
 ## Solidity: 
