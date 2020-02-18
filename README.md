@@ -45,6 +45,9 @@
 * https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
 ## Truffle
 * https://www.edureka.co/blog/developing-ethereum-dapps-with-truffle
+## Infura
+* https://infura.io/
+* https://docs.openzeppelin.com/learn/connecting-to-public-test-networks
 ## dApps:
 * https://medium.com/coinmonks/voting-on-a-blockchain-solidity-contract-codes-explained-c677996d94f2
 * https://github.com/maheshmurthy/ethereum_voting_dapp
