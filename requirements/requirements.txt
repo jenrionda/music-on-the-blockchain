@@ -66,7 +66,7 @@ contextlib2==0.5.5
 convertdate==2.2.0
 Corpora==1.0
 Corpus==0.4.2
-cryptography==2.6.1
+cryptography==3.2
 cssselect2==0.2.2
 cufflinks==0.16
 cvxopt==1.2.3
