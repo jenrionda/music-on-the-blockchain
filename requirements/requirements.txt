@@ -311,7 +311,7 @@ pytrends==4.6.0
 pytz==2018.9
 pyviz-comms==0.7.2
 PyWavelets==1.0.2
-pywin32==223
+pywin32==301
 pywinpty==0.5.5
 PyYAML==5.1
 pyzmq==18.0.0
