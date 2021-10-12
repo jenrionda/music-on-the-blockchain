@@ -224,7 +224,7 @@ oauth2client==4.1.3
 oauthclient==1.0.3
 oauthlib==3.1.0
 olefile==0.46
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 openpyxl==2.6.1
 opt-einsum==3.1.0
 packaging==19.0
