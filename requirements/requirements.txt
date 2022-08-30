@@ -97,7 +97,7 @@ enum-compat==0.0.3
 erlastic==2.0.0
 et-xmlfile==1.0.1
 eth-abi==2.1.0
-eth-account==0.4.0
+eth-account==0.5.9
 eth-hash==0.2.0
 eth-keyfile==0.5.1
 eth-keys==0.2.4
