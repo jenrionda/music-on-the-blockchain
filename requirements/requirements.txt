@@ -295,7 +295,7 @@ pyreadline==2.1
 pyreadstat==0.2.9
 pyrsistent==0.14.11
 PySocks==1.6.8
-pyspark==2.4.4
+pyspark==3.2.2
 pystan==2.19.1.1
 pytest==4.3.1
 pytest-arraydiff==0.3
